@@ -1,0 +1,9 @@
+data_dir: S:\users\jianjie\HeadChange\HeadChange_interface\data_dir\
+camera_file: S:\users\jianjie\HeadChange\HeadChange_interface\camera_dir\CamInfo_Camera01_2Node.txt
+sk_file: S:\users\jianjie\HeadChange\HeadChange_interface\sk_amc_dir\yuxuan_ok_dof.asf
+mskel_file: S:\users\jianjie\HeadChange\HeadChange_interface\sk_amc_dir\yuxuan_ok.mskel
+sps_file: S:\users\jianjie\HeadChange\HeadChange_interface\sk_amc_dir\poses.sps
+mesh_file: S:\users\jianjie\HeadChange\HeadChange_interface\mesh_dir\yuxuan.obj
+mesh_weights_file: S:\users\jianjie\HeadChange\HeadChange_interface\mesh_dir\yuxuan.mesh.weights.txt
+start_frame: 50
+end_frame: 60
