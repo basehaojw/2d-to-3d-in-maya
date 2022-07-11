@@ -1,0 +1,7 @@
+INTERFACE_DLL = "S:/users/haojiawei/head_change_test/DEBUG/PLE-22602/InteractivePoseEditing/x64/Release/c_interface.dll"
+ENV_PATH = "S:/users/haojiawei/head_change_test/DEBUG/PLE-22602/InteractivePoseEditing/x64/Release"
+TBB_DLL = "S:/users/haojiawei/head_change_test/DEBUG/PLE-22602/InteractivePoseEditing/x64/Release/tbb.dll"
+VIEW_ICON = "S:/users/haojiawei/head_change_test/FormalTool/tool/icon/select_view.png"
+PROJECTION_ICON = "S:/users/haojiawei/head_change_test/FormalTool/tool/icon/projection_2.png"
+OPT_ICON = "S:/users/haojiawei/head_change_test/FormalTool/tool/icon/optimize_1.png"
+JOINT_ICON = "S:/users/haojiawei/head_change_test/FormalTool/tool/icon/joint_2.png"
